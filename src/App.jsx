@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import { useSDK } from '@metamask/sdk-react';
 import './App.css'; // ייבוא קובץ הסגנונות
